@@ -15,3 +15,4 @@
 
 - 얼굴 인식 메서드에 이미지를 전달하고 받은 결과값을 클라이언트에 반환한다.
 <img src = "https://github.com/FaceRecognition0/Flask-server/assets/95980876/9a9a27db-d03a-49c3-8bcb-e4fa0d9d0898.jpg" width="40%" height="40%"><br>
+ 
