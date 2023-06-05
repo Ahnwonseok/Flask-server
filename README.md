@@ -1,4 +1,9 @@
-<테스트 코드></br>
---test_face_rec.py--</br>
-1.test_url_num() : txt파일에 있는 url주소가 2개 이상인지 테스트</br>
-2.test_dic_num() : 임베딩한 이미지의 개수가 2개 이상인지 테스트</br>
+## 서버 로직
+- 스프링 서버에서 넘어온 사진을 리스트로 받는다.
+![image](https://github.com/FaceRecognition0/Flask-server/assets/95980876/71512ca8-250e-44f7-8219-c99a770e45e1)
+
+- 받은 사진을 폴더에 저장하고 이미지를 다시 byte형식으로 리스트에 담는다.
+![image](https://github.com/FaceRecognition0/Flask-server/assets/95980876/a6c897a8-79e6-430a-a327-cac8bb60996b)
+
+- 얼굴 인식 메서드에 이미지를 전달하고 받은 결과값을 클라이언트에 반환한다.
+![image](https://github.com/FaceRecognition0/Flask-server/assets/95980876/9a9a27db-d03a-49c3-8bcb-e4fa0d9d0898)
