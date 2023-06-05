@@ -1,6 +1,6 @@
 ## 서버 로직
 - 스프링 서버에서 넘어온 사진을 리스트로 받는다.
-  <img src = "https://github.com/FaceRecognition0/Flask-server/assets/95980876/71512ca8-250e-44f7-8219-c99a770e45e1.jpg" width="55%" height="55%">
+ <img src = "https://github.com/FaceRecognition0/Flask-server/assets/95980876/71512ca8-250e-44f7-8219-c99a770e45e1.jpg" width="55%" height="55%">
 
 <br><br>
 - 받은 사진을 폴더에 저장하고 이미지를 다시 byte형식으로 리스트에 담는다.
